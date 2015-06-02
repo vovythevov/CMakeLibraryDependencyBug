@@ -1,5 +1,5 @@
 
-#include <LibB/bar.h>
+#include <LibBar/bar.h>
 
 #include <iostream>
 

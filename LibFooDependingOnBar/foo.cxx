@@ -1,7 +1,7 @@
 
-#include <LibADependingOnB/foo.h>
+#include <LibFooDependingOnBar/foo.h>
 
-#include <LibB/bar.h>
+#include <LibBar/bar.h>
 
 foo::foo() :
   bar_(new bar)
